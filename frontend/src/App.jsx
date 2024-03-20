@@ -13,6 +13,7 @@ export default function App() {
   return (
     <Layout>
       <Sidebar />
+      <div className="w-2/12"></div>
       <MainContent />
     </Layout>
   )

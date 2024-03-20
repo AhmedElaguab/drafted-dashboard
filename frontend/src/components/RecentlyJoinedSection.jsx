@@ -1,6 +1,6 @@
 export default function RecentlyJoinedSection() {
   return (
-    <section className="mb-6">
+    <section className="mb-12">
       <h3 className="text-2xl font-semibold mb-4">Recently joined</h3>
       <div className="flex">
         {[1, 2, 3, 4].map(item => {

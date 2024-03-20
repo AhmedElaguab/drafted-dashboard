@@ -1,6 +1,6 @@
 export default function HeroSection() {
   return (
-    <section className="flex mb-6">
+    <section className="flex mb-12">
       <div className="flex w-1/3">
         <div
           className="w-24 h-24 rounded-xl mr-4"
